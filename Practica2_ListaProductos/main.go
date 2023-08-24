@@ -1,6 +1,9 @@
 package main
 
-import "fmt"
+import (
+	"fmt"
+	"sort"
+)
 
 type producto struct {
 	nombre   string
@@ -93,7 +96,7 @@ func (l *listaProductos) modificarPrecio(nombre string, nuevoPrecio int) {
 	}
 }
 
-func llenarDatos() {
+func llenarDatos() { //Almancear productos
 	lProductos.agregarProducto("arroz", 15, 2500)
 	lProductos.agregarProducto("frijoles", 4, 2000)
 	lProductos.agregarProducto("leche", 8, 1200)
@@ -114,9 +117,61 @@ func (l *listaProductos) listarProductosMínimos() listaProductos {
 	return productosMinimos
 }
 
+//ACÁ ESTÁ LA PRÁCTICA 2 RESUELTA
+
+// Práctica 2 - Punto 1.b
+func (l *listaProductos) aumentarInventarioDeMinimos(listaMinimos listaProductos) {
+	for _, prodMinimo := range listaMinimos {
+		cantidadAComprar := existenciaMinima - prodMinimo.cantidad // Se calcula la cantidad de productos que deben ser comprados para alcanzar la existencia mínima.
+		if cantidadAComprar > 0 {
+			l.agregarProducto(prodMinimo.nombre, cantidadAComprar, prodMinimo.precio) //Se usa esta función para agregar la cantidad necesaria para el máximo.
+			fmt.Printf("Se han comprado %d unidades de %s para alcanzar la existencia mínima.\n", cantidadAComprar, prodMinimo.nombre)
+		}
+	}
+}
+
+// Práctica 2 - Punto 2.b
+// Usar función sort.Slice
+// rebanadaProductos, es una rebanada de lo que se va a ordenar. ordenartipoOrdenamiento es si se ordena por nombre, cantidad o precio.
+func ordenarProductos(rebanadaProductos listaProductos, tipoOrdenamiento string) {
+	switch tipoOrdenamiento {
+	case "nombre":
+		//Índices i y j como argumentos y devuelve un booleano que indica si el elemento en el índice i debe estar antes que el elemento en el índice j en la ordenación.
+		sort.SliceStable(rebanadaProductos, func(i, j int) bool { //La función SliceStable ordena la rebanada utilizando el criterio que proporcionas en el cierre.
+			return rebanadaProductos[i].nombre < rebanadaProductos[j].nombre //retorna ordenado.
+		})
+	case "cantidad":
+		sort.SliceStable(rebanadaProductos, func(i, j int) bool {
+			return rebanadaProductos[i].cantidad < rebanadaProductos[j].cantidad
+		})
+	case "precio":
+		sort.SliceStable(rebanadaProductos, func(i, j int) bool {
+			return rebanadaProductos[i].precio < rebanadaProductos[j].precio
+		})
+	default:
+		fmt.Println("Error, no válido el tipo de Ordenamiento")
+		return
+	}
+}
+
 func main() {
 	llenarDatos()
-	fmt.Println("Lista de productos antes de vender:")
+	fmt.Println("Lista de productos antes de vender y del ordenamiento:")
+	fmt.Println(lProductos)
+	fmt.Println("----------------------------------------------------------------------")
+
+	fmt.Println("Lista de productos ordenados por nombre:")
+	ordenarProductos(lProductos, "nombre")
+	fmt.Println(lProductos)
+	fmt.Println(" ")
+
+	fmt.Println("Lista de productos ordenados por precio:")
+	ordenarProductos(lProductos, "precio")
+	fmt.Println(lProductos)
+	fmt.Println(" ")
+
+	fmt.Println("Lista de productos ordenados por cantidad:")
+	ordenarProductos(lProductos, "cantidad")
 	fmt.Println(lProductos)
 
 	// Agregar productos para vender
@@ -124,6 +179,9 @@ func main() {
 	lProductos.venderProducto("frijoles")
 	lProductos.venderProducto("leche")
 
-	fmt.Println("Lista de productos después de vender:")
-	fmt.Println(lProductos)
+	/*
+		fmt.Println("----------------------------------------------------------------------")
+		fmt.Println("Lista de productos después de vender:")
+		fmt.Println(lProductos)
+	*/
 }
