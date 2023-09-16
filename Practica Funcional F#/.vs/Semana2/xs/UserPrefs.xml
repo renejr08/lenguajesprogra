@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{E774EC2A-C922-4367-9833-66CC8F39BC89}|Default">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Semana2/Recipientes.fs">
+    <Files>
+      <File FileName="Semana2/Recipientes.fs" Line="29" Column="1" />
+      <File FileName="Semana2/RutaCorta.fs" Line="15" Column="1" />
+      <File FileName="Semana2/Program.fs" Line="9" Column="25" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Semana2" expanded="True">
+            <Node name="Semana2" expanded="True">
+              <Node name="Recipientes.fs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Semana2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

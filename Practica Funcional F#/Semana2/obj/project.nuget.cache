@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "2EIDfNqL0af0UB1KVT74pAwvqordEaR/00OnPIIu51pn5DHqlsaKlruTbD5W2hazcco/kf20rKx0rPiZr1vXZg==",
+  "success": true,
+  "projectFilePath": "/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/Semana2.fsproj",
+  "expectedPackageFiles": [
+    "/Users/rsanchez/.nuget/packages/fsharp.core/7.0.300/fsharp.core.7.0.300.nupkg.sha512"
+  ],
+  "logs": []
+}

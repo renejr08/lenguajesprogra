@@ -1,0 +1,54 @@
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/Semana2.exe
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/Semana2.deps.json
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/Semana2.runtimeconfig.json
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/Semana2.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/Semana2.pdb
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/FSharp.Core.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.fsproj.AssemblyReference.cache
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.AssemblyInfoInputs.cache
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.AssemblyInfo.fs
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.fsproj.CoreCompileInputs.cache
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.fsproj.CopyComplete
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.dll
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.pdb
+C:/Users/oviquez/Documents/00.Cursos/Lenguajes de Programacion (IC-4700)/2023/II Semestre/FSharp/Semana2/Semana2/obj/Debug/net6.0/Semana2.genruntimeconfig.cache
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/Semana2
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/Semana2.deps.json
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/Semana2.runtimeconfig.json
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/Semana2.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/Semana2.pdb
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/FSharp.Core.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/cs/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/de/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/es/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/fr/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/it/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/ja/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/ko/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/pl/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/pt-BR/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/ru/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/tr/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/zh-Hans/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/bin/Debug/net6.0/zh-Hant/FSharp.Core.resources.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.fsproj.AssemblyReference.cache
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.AssemblyInfoInputs.cache
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.AssemblyInfo.fs
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.fsproj.CoreCompileInputs.cache
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.fsproj.CopyComplete
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.dll
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.pdb
+/Users/rsanchez/Library/Mobile Documents/com~apple~CloudDocs/Documents/Tec/Semestre/Lenguajes de Programación/Semana2/Semana2/obj/Debug/net6.0/Semana2.genruntimeconfig.cache
